@@ -8,6 +8,12 @@
 
 <p align="center">
 
+  <img width="400" height="400" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png">
+
+</p>
+
+<p align="center">
+
     <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png" width="400" height="400" />  
 
 </p>
