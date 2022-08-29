@@ -4,7 +4,7 @@
 - математику: ТФКП
 - python: написала код с библиотекой PIL для визуализации бильярда. Это необходимо сделать для того, чтобы проанализировать бильярд, сформулировать гипотезы и доказать их.
 
-![Alt-текст](https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png "Бильярд")
+![Alt-текст](https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png "Бильярд"=150x150)
 
 
 
