@@ -4,13 +4,13 @@
 - математику: ТФКП
 - python: написала код с библиотекой PIL для визуализации бильярда. Это необходимо сделать для того, чтобы проанализировать бильярд, сформулировать гипотезы и доказать их.
 
-<img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png" width="200" height="200" />
+В этом проекте я напишу математическую составляющую без доказательств, оставив только ту часть, которая необходима для понимания внешнего бильярда и кода на python.
 
-![Alt-текст](https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png "Бильярд")
+<img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000%2C%20r%20%3D%2075.png" width="400" height="400" />
 
 
 
-<h1 align="center">Математическое введение
+## Математическое введение
 
 
 Пусть $K$ -- аффинная плоскость над $\mathbb{R}$ с заданной ориентацией $(K = \mathbb{R}^2, \mathbb{C}, \ldots)$, а $S \subset K$ -- внутренность выпуклого многоугольника и его граница.
