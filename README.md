@@ -71,61 +71,30 @@
 
 Давайте применим отображение $N$ раз, где $N$ - какое-то большое число. Куда отображаются точки? Существуют ли точки и области, которые с некоторой периодичностью отображаются в себя? Я исследовала эти вопросы, написав алгоритм на Python. На рисунке ниже изображён диск Пуанкаре жёлтым цветом, треугольник $z_1z_2z_3$ выделен красным цветом, а чёрным цветом отмечены точки, которые под действием правого внешнего бильярда на $N = 1, 2, \dots , 1000$ итерации отображаются в точки, на которых отображение не определено:
 
-<style>
-   .thumb img  {
-    border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
-    padding: 15px; /* Расстояние от картинки до рамки */
-    background: #666; /* Цвет фона */
-    margin-right: 10px; /* Отступ справа */
-    margin-bottom: 10px; /* Отступ снизу */
-   }
   <p class="thumb">
    <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="300" height="300">
   
    <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="300" height="300">
   </p>
-  </style>
 
-
-<p align="left">
-
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png">
-
-<p align="right">
-
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png">
-
-</p>
 
 Сверху изображения отличаются количеством итераций. На картинке слева 100 итераций, на картинке справа -- 500. Как видно, изображение с 500 итерациями более детализировано.
 
-<p align="left">
+  <p class="thumb">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="300" height="300">
+  
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="300" height="300">
+  </p>
 
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png">
 
-</p>
-
-
-<p align="right">
-
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png">
-
-</p>
-
-</p>
-
-<p align="left">
-
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png">
+  <p class="thumb">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="300" height="300">
+  
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="300" height="300">
+  </p>
 
 </p>
 
-
-<p align="right">
-
-  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png">
-
-</p>
 
 На картинках выше изменяется размер треугольника. Меняя размеры треугольников и количество итераций, я доказала теорему:
 - Для отображения правого внешнего бильярда относительно правильного треугольника с центром в нуле и вершинами $z_1 = \varepsilon, z_2 = \varepsilon e^{\frac{2\pi i}{3}}, z_3 = \varepsilon e^{\frac{-2\pi i}{3}}$, таких что $\varepsilon < 2 - \sqrt{3}$, существует цикл длины 3. Точки, образующие цикл, имеют вид
