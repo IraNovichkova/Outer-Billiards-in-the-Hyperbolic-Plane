@@ -71,18 +71,7 @@
 
 Давайте применим отображение $N$ раз, где $N$ - какое-то большое число. Куда отображаются точки? Существуют ли точки и области, которые с некоторой периодичностью отображаются в себя? Я исследовала эти вопросы, написав алгоритм на Python. На рисунке ниже изображён диск Пуанкаре жёлтым цветом, треугольник $z_1z_2z_3$ выделен красным цветом, а чёрным цветом отмечены точки, которые под действием правого внешнего бильярда на $N = 1, 2, \dots , 1000$ итерации отображаются в точки, на которых отображение не определено:
 
-
-  <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="300" height="300">
-  
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="300" height="300">
-  </p>
-
-<html>
- <head>
-  <meta charset="utf-8">
-  <title>Фотографии</title>
-  <style>
+<style>
    .thumb img  {
     border: 2px solid #55c5e9; /* Рамка вокруг фотографии */
     padding: 15px; /* Расстояние от картинки до рамки */
@@ -90,15 +79,12 @@
     margin-right: 10px; /* Отступ справа */
     margin-bottom: 10px; /* Отступ снизу */
    }
-  </style>
- </head>
- <body>
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="120" height="120">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 2" width="120" height="120">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="300" height="300">
+  
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="300" height="300">
   </p>
- </body>
-</html>
+  </style>
 
 
 <p align="left">
