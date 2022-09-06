@@ -80,7 +80,7 @@
 Сверху изображения отличаются количеством итераций. На картинке слева 100 итераций, на картинке справа -- 500. Как видно, изображение с 500 итерациями более детализировано.
 
   <p class="thumb">
-   <img style="margin:0 30px 0 150px;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="300" height="300">
+   <img style="margin:0 0 0 300px;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="300" height="300">
 
   
    <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="300" height="300">
