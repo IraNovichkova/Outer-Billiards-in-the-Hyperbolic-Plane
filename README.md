@@ -73,14 +73,42 @@
 
 <p align="left">
 
-  <img width="200" height="200" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png">
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png">
 
 </p>
 
 
 <p align="right">
 
-  <img width="200" height="200" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png">
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png">
+
+</p>
+
+<p align="left">
+
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png">
+
+</p>
+
+
+<p align="right">
+
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png">
+
+</p>
+
+</p>
+
+<p align="left">
+
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png">
+
+</p>
+
+
+<p align="right">
+
+  <img width="300" height="300" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png">
 
 </p>
 
