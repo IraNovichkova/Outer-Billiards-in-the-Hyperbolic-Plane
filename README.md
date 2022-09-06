@@ -87,9 +87,9 @@
 
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="600" height="600" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="600" height="600" hspace="30" vspace="20">
   
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="600" height="600" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="600" height="600" hspace="30" vspace="20">
   </p>
 
 </p>
