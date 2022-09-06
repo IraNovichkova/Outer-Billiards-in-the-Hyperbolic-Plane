@@ -32,7 +32,7 @@
 
 На рисунке ниже жёлтый круг - диск Пуанкаре. В нём изображён треугольник с вершинами z_1, z_2, z_3. Точка X отражается относительно z_1.
 
-![<alt text>](<https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/pic1.png>)
+![<ну напишу что-то и что>](<https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/pic1.png>)
 
 
 <p align="center">
