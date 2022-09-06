@@ -73,25 +73,23 @@
 Давайте применим отображение $N$ раз, где $N$ - какое-то большое число. Куда отображаются точки? Существуют ли точки и области, которые с некоторой периодичностью отображаются в себя? Я исследовала эти вопросы, написав алгоритм на Python. На рисунке ниже изображён диск Пуанкаре жёлтым цветом, треугольник $z_1z_2z_3$ выделен красным цветом, а чёрным цветом отмечены точки, которые под действием правого внешнего бильярда на $N = 1, 2, \dots , 1000$ итерации отображаются в точки, на которых отображение не определено:
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="300" height="300" hspace="10" vspace="10">
-   <img style="margin:0 300px 0 0;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="300" height="300" hspace="10" vspace="10">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="300" height="300" hspace="10" vspace="100">
+   <img style="margin:0 300px 0 0;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="300" height="300" hspace="10" vspace="100">
   </p>
 
 
 Сверху изображения отличаются количеством итераций. На картинке слева 100 итераций, на картинке справа -- 500. Как видно, изображение с 500 итерациями более детализировано.
 
   <p class="thumb">
-   <img style="margin:0 0 0 300px;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="300" height="300">
-
-  
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="300" height="300">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="300" height="300" hspace="10" vspace="300">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="300" height="300" hspace="10" vspace="300">
   </p>
 
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="300" height="300">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="300" height="300" hspace="10" vspace="200">
   
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="300" height="300">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="300" height="300" hspace="10" vspace="200">
   </p>
 
 </p>
