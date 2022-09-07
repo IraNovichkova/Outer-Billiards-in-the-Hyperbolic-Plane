@@ -9,6 +9,8 @@
 
 В файле README.md я расскажу о том, что такое внешний бильярд, что нарисовано на изображениях, которые я называю визуализацией бильярда, и в чём заключается главный вопрос моей исследовательской работы. В файле [course_work.py](https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/course_work.py) код с комментариями, который можно запустить у себя и получить визуализацию бильярда (а также исследовать бильярд, подставляя разные значения параметров). Математическую составляющую я приведу без доказательств.
 
+Также я добавила файл с [отзывом](https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/review1_novichkova_i_yu.pdf) научного руководителя.
+
 <p align="center">
 
   <img width="400" height="400" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/pic3.png">
