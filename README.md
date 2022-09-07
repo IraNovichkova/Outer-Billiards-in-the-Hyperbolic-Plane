@@ -67,24 +67,24 @@
 Давайте применим отображение $N$ раз, где $N$ - какое-то большое число. Куда отображаются точки? Существуют ли точки и области, которые с некоторой периодичностью отображаются в себя? Для исследования этих вопросов я написала алгоритм на Python. На рисунке ниже изображён диск Пуанкаре жёлтым цветом, треугольник $z_1z_2z_3$ выделен красным цветом, а чёрным цветом отмечены точки, которые под действием правого внешнего бильярда на $N = 1, 2, \dots , 1000$ итерации отображаются в точки, на которых отображение не определено:
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="350" height="350" hspace="70" vspace="20">
-   <img style="margin:0 300px 0 0;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="350" height="350" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_100, r = 75.png" alt="Фотография 1" width="350" height="320" hspace="70" vspace="20">
+   <img style="margin:0 300px 0 0;" src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_500, r = 75.png" alt="Фотография 2" width="320" height="350" hspace="70" vspace="20">
   </p>
 
 
 Сверху изображения отличаются количеством итераций. На картинке слева 100 итераций, на картинке справа -- 500. Как видно, изображение с 500 итерациями более детализировано.
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="350" height="350" hspace="70" vspace="20">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="350" height="350" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 100.png" alt="Фотография 1" width="320" height="320" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 30.png" alt="Фотография 2" width="320" height="320" hspace="70" vspace="20">
   </p>
 
 На изображениях выше и ниже я меняю размеры треугольника.
 
   <p class="thumb">
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="350" height="350" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 20.png" alt="Фотография 1" width="320" height="320" hspace="70" vspace="20">
   
-   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="350" height="350" hspace="70" vspace="20">
+   <img src="https://github.com/IraNovichkova/Outer-Billiards-in-the-Hyperbolic-Plane/blob/main/image_1000, r = 10.png" alt="Фотография 2" width="320" height="320" hspace="70" vspace="20">
   </p>
 
 </p>
